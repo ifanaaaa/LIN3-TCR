@@ -45,7 +45,7 @@ print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage =""" [R.A] BOT Menu V.3  􀔃􀄆red check mark􏿿
+helpMessage =""" [R.A] BOT IFAN  􀔃􀄆red check mark􏿿
 
 􀔃􀅕red arrow right􏿿 Command Public
 [Me]       Cek Akun Sendiri
@@ -103,8 +103,8 @@ Gmid = ko.getProfile().mid
 Hmid = ke.getProfile().mid
 Imid = ku.getProfile().mid
 
-Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,Gmid,Hmid,Imid,"u33d60593ad472ed11e7907fb1daee6ae"]
-admin=["u33d60593ad472ed11e7907fb1daee6ae"]
+Bots=[mid,Amid,Bmid,Cmid,Dmid,Emid,Fmid,Gmid,Hmid,Imid,"uf02ef6211e0405a3455bb4bb083797b6"]
+admin=["uf02ef6211e0405a3455bb4bb083797b6"]
 wait = {
     'contact':False,
     'autoJoin':True,
